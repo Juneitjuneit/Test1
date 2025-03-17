@@ -7,4 +7,7 @@ public class Main {
     //comment 123
     /// new Veronika comment
 
+    // one more comment from Anna
+
+    // hello world
 }
