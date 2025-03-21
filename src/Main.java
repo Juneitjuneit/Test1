@@ -5,7 +5,7 @@ public class Main {
     //new comment
     // one more comment
     //comment 123
-    /// new Veronika comment
+    // new Veronika comment
 
     // one more comment from Anna
 
@@ -16,5 +16,7 @@ public class Main {
     // 3456
     //comment from Anna 20.03.
     // change in IDEA from Anna
+    // 2 change in IDEA from Anna
+
 
 }
