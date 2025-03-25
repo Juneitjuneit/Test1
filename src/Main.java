@@ -11,7 +11,7 @@ public class Main {
     // 111-Anna start
     // 111-Anna ready
     //Vero started
-    //Vero ready
+    //Vero is ready
 
 
 }
