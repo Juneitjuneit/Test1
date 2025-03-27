@@ -26,5 +26,7 @@ public class Main {
     //test PR
     //FirstComFromRina
     // Hello QA!
-    // CommToRina
+    // First commit for my branch
+    // For branch Rina comment
+    // Go!
 }
