@@ -26,5 +26,4 @@ public class Main {
     //test PR
     //FirstComFromRina
     // Hello QA!
-    // Comm2Rina
 }
