@@ -29,7 +29,4 @@ public class Main {
     //test PR
     //FirstComFromRina
     // Hello QA!
-    // CommToRina
-    //2207
-    //2208
 }
