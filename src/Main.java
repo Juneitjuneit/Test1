@@ -13,7 +13,6 @@ public class Main {
     //Vero startedddd
     //Vero is ready
     //hello new test
-    //good bye
     // it is smth new
     // can anybody see my comments?
     // yes!
@@ -22,4 +21,5 @@ public class Main {
 
     // new test
 // one more comment
+    //watching and trying
 }
