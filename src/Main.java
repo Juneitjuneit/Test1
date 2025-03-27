@@ -13,6 +13,7 @@ public class Main {
     //Vero startedddd
     //Vero is ready
     //hello new test
+    //good bye
     // it is smth new
     // can anybody see my comments?
     // yes!
@@ -24,4 +25,9 @@ public class Main {
     //watching and trying
     //working with Veronika
     // new branch
+    // and one more
+    //test PR
+    //FirstComFromRina
+    // Hello QA!
+    // CommToRina
 }
